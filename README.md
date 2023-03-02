@@ -15,8 +15,7 @@ If you don't have them installed, you can download and install them from the off
 Once you have Node.js and npm installed, you can clone the repository from GitHub and install the dependencies by running the following commands in your terminal:
 
 ```
-git clone https://github.com/<your-username>/note-taker.git
-cd note-taker
+git clone https://github.com/nazyasar/naz-taking-notes.git
 npm install
 ```
 
