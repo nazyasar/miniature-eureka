@@ -1,6 +1,27 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "Make a shopping list",
+        "text": "-bread\n-milk\n-eggs",
+        "id": "dcc24397-c7f0-42cb-ae40-5a0b3914c2f9"
+    },
+    {
+        "title": "Get appointment from doctor",
+        "text": "Call primary care office",
+        "id": "c279dd7e-7ff1-4e2a-9ee4-4b38eb0ba028"
+    },
+    {
+        "title": "Buy a gift for bff",
+        "text": "Get her favorite chocolate",
+        "id": "d701f17f-8fb8-42ca-b8ed-9e9c9730fd6d"
+    },
+    {
+        "title": "Practice coding",
+        "text": "Check your bootcamp notes",
+        "id": "aa622d8c-5a90-4c9b-8420-1c77c721c28b"
+    },
+    {
+        "title": "Oil change of the car",
+        "text": "Needs to be done this week",
+        "id": "a06b46b9-7b4c-4e5b-ac07-3e922e0ddbe0"
     }
 ]
