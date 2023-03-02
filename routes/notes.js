@@ -4,6 +4,7 @@ const fs = require("fs");
 const { v4: uuidv4 } = require("uuid");
 const fsUtils = require("../helpers/fsUtils");
 
+//get route
 router.get("/", (req, res) => {
   console.info(`${req.method} request received`);
   fsUtils
@@ -17,6 +18,8 @@ router.get("/", (req, res) => {
     });
 });
 
+
+//post route
 router.post("/", (req, res) => {
   console.info(`${req.method} request received`);
   const { title, text } = req.body;
